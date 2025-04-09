@@ -14,9 +14,3 @@
         Require all granted
     </Directory>
 </VirtualHost>
-
-# You might want SSL configuration too
-# <VirtualHost *:443>
-#    ServerName {{SERVER_NAME}}
-#    ... (SSL settings) ...
-# </VirtualHost>
